@@ -7,8 +7,11 @@
 ## Redacted Information
 - Score and Map Data Retrieved from API
 
-## Special Thanks
+## Tools Used
 - peppy for providing the API for public usage
+- KNIME
+- MS Access, Excel
+- MSVS
 
 ## More Information
 - [osu! API](https://github.com/ppy/osu-api/wiki)
