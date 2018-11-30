@@ -16,3 +16,4 @@
 
 ## Special Thanks
 - [peppy](https://github.com/ppy) for providing the osu! API
+- All osu!mania player records that made this possible
