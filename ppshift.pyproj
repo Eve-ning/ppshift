@@ -5,7 +5,7 @@
     <ProjectGuid>aa920bc9-68e3-4cdb-b2cc-721b51b1c571</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>retrieveMapScores.py</StartupFile>
+    <StartupFile>convertJsonCSV.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
