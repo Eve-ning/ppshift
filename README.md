@@ -1,17 +1,18 @@
-# This project aims to analyze maps and scores starting from 2015
+## Research Document
+[Link to Document](https://github.com/Eve-ning/ppshift/blob/master/documents/research.pdf)
 
-## Goals
-- Analyze which maps are overrated and underrated
-- More to come
-
-## Redacted Information
-- Score and Map Data Retrieved from API
+## Results
+[Full Report](https://github.com/Eve-ning/ppshift/blob/master/documents/KNIME/results/full_report.pdf)
+[Limit 10 Report](https://github.com/Eve-ning/ppshift/blob/master/documents/KNIME/results/lim10_report.pdf)
 
 ## Tools Used
-- peppy for providing the API for public usage
+- osu! API
 - KNIME
 - MS Access, Excel
 - MSVS
 
 ## More Information
 - [osu! API](https://github.com/ppy/osu-api/wiki)
+
+## Special Thanks
+- [peppy](https://github.com/ppy) for providing the osu! API
