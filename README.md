@@ -6,7 +6,9 @@
 
 ## Google Sheet
 [Link Here](https://docs.google.com/spreadsheets/d/1XIFd0A34YlQaR_FUfOYt0gAHCfyltCkkndjiTS7ITs0/edit?usp=sharing)
+
 Feel free to meddle with the Filters using Filter View
+
 **Data -> Filter Views... -> Create New Filter View**
 
 ## Tools Used
