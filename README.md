@@ -1,15 +1,17 @@
-## Research Document
-[Link to Document](https://github.com/Eve-ning/ppshift/blob/master/documents/research.pdf)
+# Prediction of Star Rating using Regression Learning
 
 ## Results
 [Full Report](https://github.com/Eve-ning/ppshift/blob/master/documents/KNIME/results/full_report.pdf)
 
-## Google Sheet
+### Google Sheet
 [Link Here](https://docs.google.com/spreadsheets/d/1XIFd0A34YlQaR_FUfOYt0gAHCfyltCkkndjiTS7ITs0/edit?usp=sharing)
 
 Feel free to meddle with the Filters using Filter View
 
 **Data -> Filter Views... -> Create New Filter View**
+
+## Research Document
+[Link to Document](https://github.com/Eve-ning/ppshift/blob/master/documents/research.pdf)
 
 ## Tools Used
 - osu! API
