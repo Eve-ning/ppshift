@@ -26,6 +26,7 @@
     <Compile Include="convertJsonCSV.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="retrieveReplays.py" />
     <Compile Include="retrieveMapScores.py" />
     <Compile Include="retrieveRecentMaps.py" />
   </ItemGroup>
