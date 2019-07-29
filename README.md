@@ -1,7 +1,7 @@
 # Prediction of Star Rating using Regression Learning
 
 ## Results
-[Full Report](https://github.com/Eve-ning/ppshift/blob/master/documents/KNIME/results/full_report.pdf)
+[Full Report](https://github.com/Eve-ning/ppshift/blob/master/documents/KNIME/rating_workflows/results/full_report.pdf)
 
 ### Google Sheet
 [Link Here](https://docs.google.com/spreadsheets/d/1XIFd0A34YlQaR_FUfOYt0gAHCfyltCkkndjiTS7ITs0/edit?usp=sharing)
