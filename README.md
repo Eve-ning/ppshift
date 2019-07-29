@@ -1,5 +1,8 @@
 # Prediction of Star Rating using Regression Learning
 
+## Research Document
+[Link to Document](https://github.com/Eve-ning/ppshift/blob/master/documents/research.pdf)
+
 ## Results
 [Full Report](https://github.com/Eve-ning/ppshift/blob/master/documents/KNIME/rating_workflows/results/full_report.pdf)
 
@@ -9,9 +12,6 @@
 Feel free to meddle with the Filters using Filter View
 
 **Data -> Filter Views... -> Create New Filter View**
-
-## Research Document
-[Link to Document](https://github.com/Eve-ning/ppshift/blob/master/documents/research.pdf)
 
 ## Tools Used
 - osu! API
